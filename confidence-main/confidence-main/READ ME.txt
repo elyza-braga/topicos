@@ -1,0 +1,26 @@
+---------------------------------
+
+	COMO INSTALAR
+
+1° precisa ter instalado o XAMPP (não necessariamente ele, pode ser qualquer programa com apache e que faça ligação com o MYSQL, mas nesse tutorial vou usar o xampp como exemplo)
+
+2° copie a pasta do projeto, vai na pasta onde foi instalado o xampp (provavelmente em C:XAMPP) entre na pasta htdocs e cole a pasta la dentro (obs, a pasta inteira com os arquivos dentro)
+
+3° abra o painel de controle do XAMPP e ligue o apache e o mysql
+
+
+
+	*** o projeto ja vai estar funcionando ***
+
+
+
+para acessar, abra o navegador e ponha localhost/nomedapasta 
+
+-localhost é o endereço local, indicando que o projeto está no próprio computador
+
+-nomedapasta é o nome da pasta que você colou em htdocs no 2° passo
+
+
+
+
+qualquer problema, entre em contato: 

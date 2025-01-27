@@ -1,0 +1,16 @@
+.info-bar
+{
+    margin-top: 95px;
+}
+
+.saldo
+{
+    float: right;
+    border-left: 2px solid white;
+}
+
+.dados
+{
+    background-color: #eee;
+    min-height: 400px;
+}
